@@ -1,0 +1,11 @@
+streamlit
+pandas
+plotly
+paho-mqtt
+folium
+pydeck
+streamlit-folium
+qrcode
+pillow
+requests
+polyline
